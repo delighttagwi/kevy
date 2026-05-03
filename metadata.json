@@ -1,0 +1,6 @@
+{
+  "name": "Diaper World",
+  "description": "Full-stack e-commerce for Diaper World Harare, featuring real-time delivery tracking, admin inventory management, and driver portals.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["real-time tracking", "e-commerce", "inventory management"]
+}
